@@ -1,10 +1,10 @@
 # OneLife
-Team name: One Life
-Team Members: 
-Jeffery Cao
-Nicholas Ang
-Tan Hui Min
-Tan Si Yu Vernice
+- Team name: One Life
+- Team Members: 
+1. Jeffery Cao
+2. Nicholas Ang
+3. Tan Hui Min
+4. Tan Si Yu Vernice
 
 ### a) Short Description
 In Singapore, the aging population and number  of elderly living alone are increasing. Living alone poses safety risks. Falling is common with the elderly, and is likely to cause severe injuries. When fallen down, elderlies living alone may be immobilised and unable to reach out for devices to call for help. If they do not receive timely help, they may suffer from serious complications such as dehydration, muscle damage and lung infection. Hence, it is critical for them to have access to emergency services so that help can come in a timely manner.  Our solution comes in the form of a voice assistance using IBM Watson Assistant to alert Community First Responders (CFRs). This allows the immobilized to call for help without moving.  With this voice assistant, elderlies will have a user-friendly method of alerting the CFRs for help. A higher percentage of emergencies can also be reported in a timely manner for early intervention.
