@@ -16,10 +16,10 @@ Youtube Link: https://youtu.be/CvFI7wSQJyI
 ![alt text](https://github.com/jeffery1236/OneLife-Boy_SCDFXIBM/blob/master/architecture.jpeg?raw=true)
 
 Google Assistant using Watson Assistant Technology Architecture
-![alt text](https://github.com/jeffery1236/OneLife-Boy_SCDFXIBM/blob/master/ibm_watson_assistant_architecture.png?raw=true)
+![alt text](https://github.com/jeffery1236/OneLife-Boy_SCDFXIBM/blob/master/ibm_watson_assistant_architecture.PNG?raw=true)
 ibm_watson_assistant_architecture
 
-
+ibm_watson_assistant_architecture.PNG
 ### d) Long Description
 https://docs.google.com/document/d/1MsUbfIBXWCwT1qS7dcPTZBLYwbo4suDcIMMaVvhlbVM/edit?usp=sharing
 
