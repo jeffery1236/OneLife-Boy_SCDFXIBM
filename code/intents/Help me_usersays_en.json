@@ -1,0 +1,38 @@
+[
+  {
+    "id": "bec253b9-0a30-4f48-9042-662e75ceb5ea",
+    "data": [
+      {
+        "text": "call ambulance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2b57d9a-fe72-48ba-b91f-8fbe10c2721a",
+    "data": [
+      {
+        "text": "Help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5da158e-b88f-4bba-acbb-f5577a533ce1",
+    "data": [
+      {
+        "text": "Help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
